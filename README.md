@@ -31,30 +31,6 @@ A full-stack application that displays upcoming soccer matches using Node.js + E
 - npm
 
 ### Step 1: Clone/Download the Project
-Download all the files and organize them in this structure:
-\`\`\`
-soccer-matches-app/
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   ├── .env
-│   └── .gitignore
-├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Header.js
-│   │   │   ├── MatchList.js
-│   │   │   ├── MatchCard.js
-│   │   │   └── LoadingSpinner.js
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│   ├── package.json
-│   └── .gitignore
-└── README.md
-\`\`\`
 
 ### Step 2: Install Backend Dependencies
 \`\`\`bash
