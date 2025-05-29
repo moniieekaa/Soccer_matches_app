@@ -68,7 +68,7 @@ Open your browser and go to: http://localhost:3000
 
 ## Project Structure
 
-\`\`\`
+\`\`\`bash
 ├── backend/
 │   ├── server.js          # Express server with API endpoints
 │   ├── package.json       # Backend dependencies
