@@ -66,22 +66,6 @@ Open your browser and go to: http://localhost:3000
 - `GET /api/matches` - Fetch upcoming soccer matches
 - `GET /api/health` - Health check endpoint
 
-## Project Structure
-
-\`\`\`bash
-├── backend/
-│   ├── server.js          # Express server with API endpoints
-│   ├── package.json       # Backend dependencies
-│   └── .env              # Environment variables
-├── frontend/
-│   ├── src/
-│   │   ├── components/    # React components
-│   │   ├── App.js        # Main App component
-│   │   ├── App.css       # Styles
-│   │   └── index.js      # React entry point
-│   └── package.json      # Frontend dependencies
-\`\`\`
-
 ## Features Included
 
 ✅ **Backend (Node.js + Express):**
